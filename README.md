@@ -1,12 +1,20 @@
 # code-clinic
 Our internal review for the packages we develop
 
+## course of the session
+
+1. introduce the package
+2. split the group to get 4 subgroups
+3. each subgroup works on 1 of the 4 items of the checklist for about 10-15 minutes
+   1. chek the boxes associated with the checklist
+   2. comment on the associated issue on the package
+4. meet up with the full group to describe what is missing (and what was good)
+5. open issues on the package repository to propose easy and precise fixes for the missing items
+
+
+
 ## Checklist
-
-
 ### general structure (having a readme, a licence, contributing guide, etc)
-
-
 
 - [ ] Package has a README.md file in the root directory.
 - [ ] Package documentation is easy to find.
@@ -27,6 +35,8 @@ Our internal review for the packages we develop
 
 - [ ] **Vignette(s)** / **Example usage:** demonstrating major functionality (ideally to solve real-world analysis problems).
 - [ ] **Function Documentation:** for functions used in the examples.
+
+### README
 
 The README should include:
 
