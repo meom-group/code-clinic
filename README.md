@@ -42,8 +42,20 @@ The README should include:
 
 - [ ] The package name
 - [ ] Short description of package goals.
+
 - [ ] Package installation instructions
     - [ ] Brief demonstration of package usage (as it makes sense - links to vignettes could also suffice here if package description is clear)
 - [ ] Link to your documentation website.
 - [ ] If applicable, how the package compares to other similar packages and/or how it relates to other packages in the scientific ecosystem.
 - [ ] Citation information
+
+
+## Extra information
+
+The following links have been used to produce our checklist and can be used as extra documentation:
+
+- [Pyopensci](https://www.pyopensci.org)
+  - [https://github.com/pyOpenSci/software-peer-review/blob/main/appendices/review-template.md?plain=1](https://github.com/pyOpenSci/software-peer-review/blob/main/appendices/review-template.md?plain=1)
+- [Joss](https://github.com/openjournals/joss-reviews)
+  - https://github.com/openjournals/joss-reviews/blob/master/.buffy/templates/reviewer_checklist.md?plain=1
+- [Sustainability review](https://software.ac.uk/resources/online-sustainability-evaluation)
